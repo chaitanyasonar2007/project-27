@@ -1,2 +1,2 @@
-# project-27
-newtons cradel
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
